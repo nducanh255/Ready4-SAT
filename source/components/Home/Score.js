@@ -30,7 +30,7 @@ export default function Score(){
 const styles = StyleSheet.create({
     contatiner: {
         height: 150,
-        backgroundColor: 'blue',
+        backgroundColor: '#11B3D0',
     },
     scoreContainer: {
         justifyContent: 'center',
